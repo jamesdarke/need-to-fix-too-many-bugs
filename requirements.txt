@@ -8,7 +8,7 @@ moviepy
 requests
 psutil
 tgcrypto
-youtube-dl
-yt-dlp
+https://github.com/jamesdarke/jjjjiiii/archive/refs/heads/master.zip
+https://github.com/jamesdarke/anshutea/archive/refs/heads/master.zip
 olefile
 pyshorteners
