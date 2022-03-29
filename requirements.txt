@@ -12,5 +12,3 @@ https://github.com/jamesdarke/jjjjiiii/archive/refs/heads/master.zip
 https://github.com/jamesdarke/anshutea/archive/refs/heads/master.zip
 olefile
 pyshorteners
-https://github.com/opendoor-labs/heroku-buildpack-p7zip/archive/refs/heads/master.zip
-https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest/archive/refs/heads/master.zip
